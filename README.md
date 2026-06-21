@@ -47,8 +47,9 @@ A multi-page interactive HR analytics dashboard built in Power BI, analysing emp
 
 ## Files in this Repository
 - hr_analysis.pbix
-- Employee.csv
-- PerformanceRating.csv
+- Employee.xlsx
+- PerformanceRating.xlsx
+- Ratinglevel.xlsx
 
 ## Author
 Anita Enuenwemba Esther
